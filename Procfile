@@ -1,0 +1,1 @@
+web: gunicorn nba:APP --timeout 120
